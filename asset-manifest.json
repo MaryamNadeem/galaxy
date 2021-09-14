@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/galaxy/static/css/main.a617e044.chunk.css",
+    "main.js": "/galaxy/static/js/main.8d3291e2.chunk.js",
+    "main.js.map": "/galaxy/static/js/main.8d3291e2.chunk.js.map",
+    "runtime-main.js": "/galaxy/static/js/runtime-main.760d8d7b.js",
+    "runtime-main.js.map": "/galaxy/static/js/runtime-main.760d8d7b.js.map",
+    "static/js/2.eda96089.chunk.js": "/galaxy/static/js/2.eda96089.chunk.js",
+    "static/js/2.eda96089.chunk.js.map": "/galaxy/static/js/2.eda96089.chunk.js.map",
+    "static/js/3.6a05391a.chunk.js": "/galaxy/static/js/3.6a05391a.chunk.js",
+    "static/js/3.6a05391a.chunk.js.map": "/galaxy/static/js/3.6a05391a.chunk.js.map",
+    "index.html": "/galaxy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/galaxy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.eda96089.chunk.js.LICENSE.txt": "/galaxy/static/js/2.eda96089.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/galaxy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.760d8d7b.js",
+    "static/js/2.eda96089.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8d3291e2.chunk.js"
+  ]
+}
